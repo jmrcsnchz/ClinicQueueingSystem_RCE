@@ -6,3 +6,5 @@ Usage:
 ```bash
 python3 clinicx.py 'http://localhost/cqs'
 ```
+
+![](https://raw.githubusercontent.com/jmrcsnchz/ClinicQueueingSystem_RCE/main/Screenshot%202024-01-03%20113757.png)
