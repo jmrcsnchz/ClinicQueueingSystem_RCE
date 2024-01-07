@@ -1,5 +1,5 @@
 # ClinicQueueingSystem RCE Proof-of-Concept
-This exploits chains an Authorization Bypass (CVE-2024-0264) with Local File Inclusion (CVE-2024-0265) in [Sourcecodester Clinic Queuing System 1.0](https://www.sourcecodester.com/php/16439/clinic-queuing-system-using-php-and-sqlite3-source-code-free-download.html), leading to RCE
+This exploit code chains an Authorization Bypass (CVE-2024-0264) with Local File Inclusion (CVE-2024-0265) in [Sourcecodester Clinic Queuing System 1.0](https://www.sourcecodester.com/php/16439/clinic-queuing-system-using-php-and-sqlite3-source-code-free-download.html), leading to RCE
 
 Usage:
 
