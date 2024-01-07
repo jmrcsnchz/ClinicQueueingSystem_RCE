@@ -1,6 +1,11 @@
-# Author: Juan Marco Sanchez | https://linkedin.com/in/juanmarcosanchez
-# Sourcecodester Clinic Queuing System RCE 
-# Chain of CVE-2024-0264 and CVE-2024-0265
+# Exploit Title: Sourcecodester Clinic Queuing System 1.0 RCE 
+# Date: 2024/1/7
+# Exploit Author: Juan Marco Sanchez | https://linkedin.com/in/juanmarcosanchez
+# Vendor Homepage: https://www.sourcecodester.com/
+# Software Link: https://www.sourcecodester.com/php/16439/clinic-queuing-system-using-php-and-sqlite3-source-code-free-download.html
+# Version: 1.0
+# Tested on: Debian Linux Apache Web Server
+# CVE: CVE-2024-0264 and CVE-2024-0265
 
 import requests
 import random
