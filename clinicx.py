@@ -1,3 +1,7 @@
+# Author: Juan Marco Sanchez | https://linkedin.com/in/juanmarcosanchez
+# Sourcecodester Clinic Queuing System RCE 
+# Chain of CVE-2024-0264 and CVE-2024-0265
+
 import requests
 import random
 import argparse
